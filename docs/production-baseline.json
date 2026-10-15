@@ -1,0 +1,50 @@
+{
+  "site": "cobuild.110-lab.cn",
+  "release": "20261015-v1",
+  "files": {
+    "assets/Evalab.png": {
+      "sha256": "ef0dcaa9a0cf12c0658571fb1473e5ddfa784e90e3c37fee44b7d264e23f68c2",
+      "bytes": 471081
+    },
+    "assets/HiFlow.png": {
+      "sha256": "fccd1b6f0d59a567971c276242c312321f65634380eeff7d073c7b9163bb1de4",
+      "bytes": 366632
+    },
+    "assets/Kick.png": {
+      "sha256": "3462efbe4625f5755a45b439f745f33f2ef63a414fcb25f3838e6f231fe59da8",
+      "bytes": 342674
+    },
+    "assets/WeKnow.png": {
+      "sha256": "ffc3a25b112cc74fa16ec9b593dc0c31b39afe9ce1e22c2a8cb64004555cb665",
+      "bytes": 466736
+    },
+    "assets/cobuild.png": {
+      "sha256": "4433091954705986983c986aca5f9660061042baae50b0bdc42823d98b686e7d",
+      "bytes": 29264
+    },
+    "assets/collaboration-desktop.png": {
+      "sha256": "f4fe4c2274cb7adb8046eb2f88c232bf1a364058ec6eb646bca2b7535060b23d",
+      "bytes": 1432917
+    },
+    "assets/collaboration-mobile.png": {
+      "sha256": "74ab86ac395a773f77ea0ebd3ca4465a92546a38bf884eae563cbb3f825fad36",
+      "bytes": 1460650
+    },
+    "assets/hero-background.png": {
+      "sha256": "a22821571951c736709d298441e7d38ec25fc1c858993474292c2f8cec3cc04e",
+      "bytes": 1350190
+    },
+    "assets/index-CE_NH_g-.css": {
+      "sha256": "5544e33b22c6fc085b9671a1d1a500bfa165b591fbe04602f48db8a343a0ee26",
+      "bytes": 8061
+    },
+    "assets/index-DYR7hey-.js": {
+      "sha256": "da4aa6dd6c424f91872e1ab1b7cbb2573d97b19fb943d48cb5b3db96aca4d3d1",
+      "bytes": 211642
+    },
+    "index.html": {
+      "sha256": "d10c85ecae852b4f6c78e06336309b538ab2f8bc9dace67f502ba28e64e97e4a",
+      "bytes": 529
+    }
+  }
+}
